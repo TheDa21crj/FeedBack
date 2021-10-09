@@ -1,0 +1,137 @@
+.a_c_m_div {
+  background-color: white;
+  width: 60%;
+  margin: 2% 15% 0% 15%;
+  display: flex;
+  flex-direction: row;
+  padding: 2% 2% 2% 2%;
+  border-radius: 5px;
+}
+
+.left_div {
+  background-color: white;
+  justify-content: center;
+  justify-items: center;
+  width: 40%;
+}
+
+.img {
+  border-radius: 5px;
+  margin: 0px 0px 2% 5%;
+  width: 90%;
+}
+
+.p_div {
+  background-color: transparent;
+}
+
+.right_div {
+  background-color: white;
+  width: 60%;
+}
+
+.right_div h3 {
+  background-color: transparent;
+  margin-bottom: 1%;
+}
+
+.right_div h5 {
+  background-color: transparent;
+  color: blue;
+  margin-bottom: 3%;
+}
+
+.right_div p {
+  background-color: transparent;
+  display: inline-block;
+}
+
+.right_div span {
+  background-color: transparent;
+}
+
+.btn {
+  outline: none;
+  position: absolute;
+  top: 16%;
+  right: 23%;
+  border: none;
+  border-radius: 5px;
+  padding: 0.6%;
+  background-color: rgb(69, 69, 236);
+  transition-property: all;
+  transition-duration: 0.7s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.btn:hover {
+  color: white;
+}
+
+.ab_tl_div {
+  background-color: transparent;
+  margin-top: 5%;
+}
+
+.ab_tl_div p {
+  margin-right: 7%;
+}
+
+.input_p_div {
+  margin-top: 3%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: transparent;
+  pointer-events: auto;
+  opacity: 1;
+}
+
+.label_div {
+  width: 50%;
+  background-color: transparent;
+}
+
+.label_div p {
+  display: block;
+  margin: 0% 0% 3% 0%;
+  background-color: transparent;
+}
+
+.input_div form {
+  background-color: white;
+}
+
+.input {
+  outline: none;
+  display: block;
+  padding: 0.2%;
+  border: none;
+  margin: 0% 0% 6% 0%;
+  background-color: transparent;
+}
+
+.poi {
+  cursor: pointer;
+  transition-property: all;
+  transition-duration: 0.7s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.poi:hover {
+  text-decoration: underline;
+  color: rgb(69, 69, 236);
+}
+
+.timeline_div {
+  background-color: white;
+  width: 442.365px;
+  height: 128.49px;
+  position: absolute;
+  top: 38%;
+  left: 42%;
+  opacity: 0;
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+}

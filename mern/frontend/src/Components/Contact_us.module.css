@@ -1,0 +1,67 @@
+.C_u_m_div {
+  margin-top: 2%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: white;
+  border-radius: 5px;
+  padding: 2% 2% 1% 2%;
+}
+
+.C_u_m_div h2 {
+  background-color: white;
+}
+
+.Form_part {
+  margin-top: 3%;
+}
+
+.Form_part input {
+  padding: 2%;
+  outline: none;
+  margin-bottom: 3%;
+  border: solid;
+  border-radius: 5px;
+  border-width: 1px;
+  background-color: white;
+  transition-property: all;
+  transition: duration 0.7s;
+  transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+
+.Form_part input:hover {
+  border-color: black black rgb(69, 69, 236) black;
+}
+
+.Form_part input:focus {
+  border-color: black black rgb(69, 69, 236) black;
+  box-shadow: 0px 5px 10px rgb(69, 69, 236);
+}
+
+.inp2 {
+  margin-right: 9.22%;
+  margin-left: 9.22%;
+}
+
+.Form_part textarea {
+  outline: none;
+  resize: none;
+  width: 97.754%;
+  padding: 1%;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.Reg_btn {
+  margin-top: 3%;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(69, 69, 236);
+  padding: 2% 5% 2% 5%;
+  transition-property: all;
+  transition-duration: 0.7s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.Reg_btn:hover {
+  color: white;
+}

@@ -1,0 +1,36 @@
+.n_m_div {
+    background-color: rgb(196, 196, 255);
+}
+
+.nav_name {
+    background-color: rgb(196, 196, 255);
+    display: inline-block;
+    margin: 1%;
+}
+
+.n_lists {
+    background-color: rgb(196, 196, 255);
+    display: inline-block;
+    width: 493px;
+    position: absolute;
+    top: 3%;
+    right: -6%;
+}
+
+.n_lists ul {
+    background-color: rgb(196, 196, 255);
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.n_lists ul li {
+    background-color: rgb(196, 196, 255);
+    margin-right: 5%;
+}
+
+.Link {
+    background-color: rgb(196, 196, 255);
+    text-decoration: none;
+    color: black;
+}

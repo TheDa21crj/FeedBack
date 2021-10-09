@@ -1,0 +1,41 @@
+.E_o_m_div {
+  background-color: transparent;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  justify-content: center;
+  justify-items: center;
+  text-align: center;
+}
+
+.E_o_m_div h1 {
+  background-color: transparent;
+  letter-spacing: 0.18em;
+}
+
+.E_o_m_div p {
+  background-color: transparent;
+  letter-spacing: 0.1em;
+}
+
+.Link {
+  text-decoration: none;
+  color: black;
+  background-color: transparent;
+  transition-property: all;
+  transition-duration: 0.7s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.Link:hover {
+  color: white;
+}
+
+.e_btn {
+  margin-top: 2%;
+  border: none;
+  background-color: rgb(69, 69, 236);
+  width: 210px;
+  height: 45px;
+  border-radius: 10px;
+}

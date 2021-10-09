@@ -1,0 +1,33 @@
+.C_d_m_c {
+  margin-top: 50px;
+  padding: 1%;
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 5px;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  border: none;
+}
+
+.C_d_m_c div {
+  background-color: white;
+}
+
+.icon svg {
+  background-color: white;
+}
+
+.text_div {
+  background-color: white;
+}
+
+.text_div h3 {
+  margin: 0px 0px 4% 2%;
+  background-color: white;
+}
+
+.text_div p {
+  background-color: white;
+}

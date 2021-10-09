@@ -1,0 +1,127 @@
+.L_p_f_m_c {
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 15%;
+  margin-top: 5%;
+  padding: 3%;
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.left_div {
+  background-color: white;
+  margin-right: 5%;
+  width: 50%;
+}
+
+.right_div {
+  width: 50%;
+  background-color: white;
+  text-align: center;
+}
+
+.right_div h1 {
+  text-align: left;
+  background-color: white;
+}
+
+.form_part {
+  margin-top: 5%;
+  padding: 2%;
+  text-align: center;
+  background-color: white;
+}
+
+.form_part div {
+  background-color: white;
+}
+
+.form_part div input {
+  background-color: white;
+  outline: none;
+  border: solid;
+  border-color: black;
+  border-width: 0px 0px 1px 0px;
+  margin: 0px 0px 4% 3.5%;
+  width: 80%;
+  transition-property: all;
+  transition-duration: 0.7s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.form_part input:hover {
+  border-color: rgb(69, 69, 236);
+}
+
+.form_part input:focus {
+  border-color: rgb(69, 69, 236);
+  box-shadow: 0px 5px 10px rgb(69, 69, 236);
+}
+
+.btn {
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(69, 69, 236);
+  margin-top: 5%;
+  padding: 3% 5% 3% 5%;
+  transition-property: all;
+  transition-duration: 0.7s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.btn:hover {
+  color: white;
+}
+
+.al_r_btn {
+  background-color: white;
+  padding: 2%;
+  border: none;
+  margin-top: 5%;
+  margin-left: 123.8175px;
+  transition-property: all;
+  transition-duration: 0.7s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.al_r_btn:hover {
+  border-radius: 5px;
+  background-color: rgb(69, 69, 236);
+  color: white;
+}
+
+.img_user {
+  width: 100%;
+}
+
+.other_op {
+  background-color: white;
+  margin-top: 10%;
+  text-align: left;
+}
+
+.other_op_text {
+  background-color: white;
+  margin-right: 3%;
+}
+
+.other_op svg {
+  background-color: transparent;
+  margin-right: 4%;
+}
+
+.Link {
+  background-color: transparent;
+  text-decoration: none;
+  color: black;
+  transition-property: all;
+  transition-duration: 0.7s;
+  transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.Link:hover {
+  color: white;
+}
