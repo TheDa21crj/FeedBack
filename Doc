@@ -1,2 +1,0 @@
-DataBase Password = amazon
-Db link = mongodb+srv://amazon_db:amazon@cluster0.9b1gj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
